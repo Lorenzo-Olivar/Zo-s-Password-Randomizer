@@ -17,21 +17,21 @@ Proceed with this URL link: [
 
 From this page, press Generate Password.
 
- ![alt text](assets/images/SS1)
+ ![alt text](assets/images/SS1.png)
 
  Then you type how long you want your password to be.
 
- ![alt text](assets/images/SS2)
+ ![alt text](assets/images/SS2.png)
 
  For the following, confirm or deny which parameters you want in your password.
 
- ![alt text](assets/images/SS3)
+ ![alt text](assets/images/SS3.png)
 
- ![alt text](assets/images/SS4)
+ ![alt text](assets/images/SS4.png)
 
- ![alt text](assets/images/SS5)
+ ![alt text](assets/images/SS5.png)
 
- ![alt text](assets/images/SS6)
+ ![alt text](assets/images/SS6.png)
 
 
 ## License
