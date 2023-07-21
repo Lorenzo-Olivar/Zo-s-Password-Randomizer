@@ -10,8 +10,7 @@ SO THAT users can generate a random password to their liking.
 
 ## Installation
 
-Proceed with this URL link: [
-](https://lorenzo-olivar.github.io/Zo-s-Password-Randomizer/)
+Proceed with this URL link: [Link to Website](https://lorenzo-olivar.github.io/Zo-s-Password-Randomizer/)
 
 ## Usage
 
